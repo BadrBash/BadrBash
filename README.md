@@ -62,3 +62,22 @@ I break things, fix them again, and somehow still ship projects with vibes 😎�
 ---
 
 <p align="center">🔥 Always building, always learning. If it breaks, I fix it with vibes.</p>
+
+
+
+
+---
+
+## ⚡ Animated Tech Stack Icons
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" style="margin-right:15px; animation: bounce 1.5s infinite;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="55" height="55" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="55" height="55" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" height="55" style="margin-right:15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="55" height="55" />
+</p>
+
