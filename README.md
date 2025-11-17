@@ -68,7 +68,8 @@ I break things, fix them again, and somehow still ship projects with vibes 😎�
 
 ---
 
-## ⚡ Animated Tech Stack Icons
+## ⚡ 
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" style="margin-right:15px; animation: bounce 1.5s infinite;" />
