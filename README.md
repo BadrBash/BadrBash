@@ -58,7 +58,7 @@ I break things, fix them again, and somehow still ship projects with vibes ðŸ˜Žð
 <p align="left">
   <a href="https://github.com/BadrBash"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/badr-mubashir"></a>
-  <a href="https://techbro-sln.netlify.app"><img src="https://techbro-sln.netlify.app/logo.png" /></a>
+  <a href="https://techbro-sln.netlify.app"><img height="80px" width="80" src="https://techbro-sln.netlify.app/logo.png" /></a>
 </p>
 
 <!-- <p align="center">
