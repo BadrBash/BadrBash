@@ -59,6 +59,13 @@ I break things, fix them again, and somehow still ship projects with vibes 😎�
   <a href="https://github.com/BadrBash"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/badr-mubashir"></a>
+</p>
+
+<p>
+  <a href="https://techbro-sln.netlify.app"></a>
+</p>
 ---
 
 <p align="center">🔥 Always building, always learning. If it breaks, I fix it with vibes.</p>
